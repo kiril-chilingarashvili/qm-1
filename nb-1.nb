@@ -1,0 +1,64 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1637,         56]
+NotebookOptionsPosition[      1166,         39]
+NotebookOutlinePosition[      1562,         55]
+CellTagsIndexPosition[      1519,         52]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"(", 
+    RowBox[{"5", "+", "I"}], ")"}], "^", "4"}], " ", "*", " ", 
+  RowBox[{"(", 
+   RowBox[{"239", "-", "I"}], ")"}]}]], "Input",
+ CellChangeTimes->{{3.875838955525947*^9, 3.8758389756636457`*^9}},
+ CellLabel->"In[2]:=",ExpressionUUID->"9839af0d-bebf-4da9-af9a-25f58cf60b83"],
+
+Cell[BoxData[
+ RowBox[{"114244", "+", 
+  RowBox[{"114244", " ", "\[ImaginaryI]"}]}]], "Output",
+ CellChangeTimes->{{3.8758389690972357`*^9, 3.875838976016995*^9}},
+ CellLabel->"Out[2]=",ExpressionUUID->"43ad66a2-cdd2-49e9-b76e-5315a6f3a99c"]
+}, Open  ]]
+},
+WindowSize->{739, 911},
+WindowMargins->{{Automatic, 58}, {Automatic, 61}},
+FrontEndVersion->"13.0 for Mac OS X x86 (64-bit) (February 4, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"51931ce7-e7db-4346-8470-7a9922c51330"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 326, 8, 46, "Input",ExpressionUUID->"9839af0d-bebf-4da9-af9a-25f58cf60b83"],
+Cell[909, 32, 241, 4, 69, "Output",ExpressionUUID->"43ad66a2-cdd2-49e9-b76e-5315a6f3a99c"]
+}, Open  ]]
+}
+]
+*)
+
