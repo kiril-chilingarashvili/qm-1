@@ -10,17 +10,28 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[       817,         34]
-NotebookOptionsPosition[       561,         21]
-NotebookOutlinePosition[       957,         37]
-CellTagsIndexPosition[       914,         34]
+NotebookDataLength[      1267,         46]
+NotebookOptionsPosition[       919,         32]
+NotebookOutlinePosition[      1316,         48]
+CellTagsIndexPosition[      1273,         45]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"psi", "[", "x_", "]"}], " ", ":=", " ", 
+   RowBox[{"E", "^", 
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"-", "kappa"}], "*", "x"}], ")"}]}]}]}]], "Input",
+ CellChangeTimes->{{3.8792939952275763`*^9, 
+  3.879294038561171*^9}},ExpressionUUID->"1391c884-3243-4c77-9222-\
+dfa107a00c82"]
 },
 WindowSize->{808, 911},
-WindowMargins->{{20, Automatic}, {Automatic, 44}},
+WindowMargins->{{-43, Automatic}, {Automatic, 54}},
 FrontEndVersion->"13.0 for Mac OS X x86 (64-bit) (February 4, 2022)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"338ded6b-acb5-42b4-b274-e7222abdc1d4"
@@ -36,6 +47,7 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
+Cell[558, 20, 357, 10, 78, "Input",ExpressionUUID->"1391c884-3243-4c77-9222-dfa107a00c82"]
 }
 ]
 *)
